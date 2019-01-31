@@ -10,11 +10,11 @@ Seuraavaksi käyttöön [Postman](https://www.getpostman.com/).
 
 Pohditaan yhdessä mitä ja miksi seuraavissa askeleissa tapahtuu:
 
-'''
-python3 -m venv VENV
-'''
+Ympäristöasiat kuntoon
 
-    source VENV/bin/activate
+	python3 -m venv VENV
+
+   source VENV/bin/activate
 
 Packages
 
