@@ -16,8 +16,14 @@ python3 -m venv VENV
 
     source VENV/bin/activate
 
+Packages
+
     pip install -r requirements.txt
 
+Alternative to Jupyter
+
     ipython
+
+python vs. run
 
     run sample_events.py
