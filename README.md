@@ -4,13 +4,17 @@ VisitTampere API:n käyttö esimerkkinä API-ohjelmoinnin prosessista ja periaat
 
 Testaillaan rajapintaa - [vuorovaikutteinen dokumentaatio](https://visittampere.fi/api-docs/) on näppärä! Käytössä [Swagger](https://swagger.io/).
 
-Seuraavaksi käyttöön [https://www.getpostman.com/][Postman].
+Seuraavaksi käyttöön [Postman](https://www.getpostman.com/).
 
 
-[https://tutorialedge.net/python/python-http-requests-tutorial/][Requests-kirjasto] tekee HTTP-pyyntöjen ohjelmoinnista helppoa:
-
-
+[Requests-kirjasto](https://tutorialedge.net/python/python-http-requests-tutorial/) tekee HTTP-pyyntöjen Python-ohjelmoinnista helppoa:
 
   python3 -m venv VENV
 
   source VENV/bin/activate
+
+  ipython
+
+  run sample_events.py
+
+  
