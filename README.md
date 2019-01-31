@@ -10,12 +10,14 @@ Seuraavaksi käyttöön [Postman](https://www.getpostman.com/).
 
 Pohditaan yhdessä mitä ja miksi seuraavissa askeleissa tapahtuu:
 
-  python3 -m venv VENV
+'''
+python3 -m venv VENV
+'''
 
-  source VENV/bin/activate
+    source VENV/bin/activate
 
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
-  ipython
+    ipython
 
-  run sample_events.py
+    run sample_events.py
