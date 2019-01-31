@@ -13,8 +13,8 @@ Pohditaan yhdessä mitä ja miksi seuraavissa askeleissa tapahtuu:
 Ympäristöasiat kuntoon
 
 	python3 -m venv VENV
-
-   source VENV/bin/activate
+	
+	source VENV/bin/activate
 
 Packages
 
