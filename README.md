@@ -2,7 +2,7 @@ README.md
 
 VisitTampere API:n käyttö esimerkkinä API-ohjelmoinnin prosessista ja periaatteista Python-kielellä.
 
-Testaillaan rajapintaa - [https://visittampere.fi/api-docs/][vuorovaikutteinen dokumentaatio] on näppärä! Käytössä [https://swagger.io/][Swagger].
+Testaillaan rajapintaa - [vuorovaikutteinen dokumentaatio](https://visittampere.fi/api-docs/) on näppärä! Käytössä [Swagger](https://swagger.io/).
 
 Seuraavaksi käyttöön [https://www.getpostman.com/][Postman].
 
