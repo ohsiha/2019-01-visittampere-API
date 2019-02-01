@@ -6,7 +6,7 @@ Testaillaan rajapintaa - [vuorovaikutteinen dokumentaatio](https://visittampere.
 
 Seuraavaksi käyttöön [Postman](https://www.getpostman.com/).
 
-[Requests-kirjasto](https://tutorialedge.net/python/python-http-requests-tutorial/) tekee HTTP-pyyntöjen Python-ohjelmoinnista helppoa:
+[Requests-kirjasto](https://tutorialedge.net/python/python-http-requests-tutorial/) tekee HTTP-pyyntöjen Python-ohjelmoinnista helppoa.
 
 Pohditaan yhdessä mitä ja miksi seuraavissa askeleissa tapahtuu:
 
